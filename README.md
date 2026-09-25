@@ -33,11 +33,6 @@
 | [**iw3-zonetool-lite**](https://github.com/elliot1377/iw3-zonetool-lite) | Extracts menus, action handlers and `.ff` zone data from Xbox 360 Call of Duty 4 running under Xenia |
 | [**model_router_python**](https://github.com/TheCoder30ec4/model_router_python/pull/25) | Contributed: wrap non-JSON responses, read timeouts and connection errors in `RouterError` (merged) |
 
-### GitHub stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=elliot1377&show_icons=true&hide_border=true&theme=github_dark&count_private=true" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elliot1377&layout=compact&hide_border=true&theme=github_dark" alt="top languages"/>
-</p>
+### GitHub streak
 
 <img src="https://streak-stats.demolab.com?user=elliot1377&theme=github-dark-blue&hide_border=true" alt="streak"/>
