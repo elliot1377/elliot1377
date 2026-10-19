@@ -11,13 +11,8 @@ and emulator work for Xbox 360, PS3 and PS5 titles.
 A community DemonWare server for **Call of Duty: Modern Warfare 2 (PS3)**. Play MW2 online again,
 in RPCS3 or on a real PS3.
 
-## 🛠️ Other things I've built
-
-| Project | What it does |
-| --- | --- |
-| [iw3-zonetool-lite](https://github.com/elliot1377/iw3-zonetool-lite) | Extracts menus, action handlers and `.ff` zone data from Xbox 360 CoD 4 running under Xenia |
-| [elliot-iw4x-menu](https://github.com/elliot1377/elliot-iw4x-menu) | A custom menu for IW4x (MW2 PC) |
-| [IW6X-MATCHMAKING](https://github.com/elliot1377/IW6X-MATCHMAKING) | Matchmaking work for IW6x (CoD: Ghosts) |
+- 🔓 **PS3 / RPCS3 online bypass**: gets around the dead official servers so MW2 matchmaking works again
+- 🖥️ Works on RPCS3 and on real PS3 hardware
 
 ## 🎮 Projects I work on
 
