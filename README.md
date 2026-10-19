@@ -14,7 +14,7 @@ Bringing classic Call of Duty back online: private servers, modding tools and em
 
 ---
 
-### [mw2-ps3-server](https://github.com/elliot1377/mw2-ps3-server) &nbsp; ![Stars](https://img.shields.io/github/stars/elliot1377/mw2-ps3-server?style=flat-square&color=yellow)
+### [mw2-ps3-server](https://github.com/elliot1377/mw2-ps3-server) &nbsp; ![Stars](https://img.shields.io/github/stars/elliot1377/mw2-ps3-server?style=flat-square&color=yellow&cacheSeconds=3600)
 
 Community DemonWare server for **Modern Warfare 2 (PS3)**. It bypasses the dead official servers
 so online matchmaking works again, on RPCS3 or a real PS3.
