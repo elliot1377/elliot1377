@@ -25,7 +25,6 @@ Pulls menus, action handlers and `.ff` zone data out of **Call of Duty 4** (Xbox
 ---
 
 **Also working with** &nbsp;
-[iw4x-client](https://github.com/iw4x/iw4x-client) ·
 [xenia-canary](https://github.com/xenia-canary/xenia-canary) ·
 [codxe](https://github.com/michaeloliverx/codxe) ·
 [OpenAssetTools](https://github.com/Laupetin/OpenAssetTools) ·
