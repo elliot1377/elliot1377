@@ -1,4 +1,4 @@
-<img src="banner.svg" alt="elliot: reviving classic Call of Duty, emulation, reverse engineering" width="100%">
+<img src="banner-cyberpunk.svg" alt="elliot: reviving classic Call of Duty, emulation, reverse engineering" width="100%">
 
 <div align="center">
 
