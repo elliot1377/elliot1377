@@ -30,8 +30,3 @@ Pulls menus, action handlers and `.ff` zone data out of **Call of Duty 4** (Xbox
 [codxe](https://github.com/michaeloliverx/codxe) ·
 [OpenAssetTools](https://github.com/Laupetin/OpenAssetTools) ·
 [AnyPS5](https://github.com/boykopovar/AnyPS5)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elliot1377/elliot1377/output/snake-dark.svg">
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/elliot1377/elliot1377/output/snake-light.svg" width="100%">
-</picture>
