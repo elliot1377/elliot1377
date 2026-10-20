@@ -1,6 +1,8 @@
-<img src="banner-cyberpunk.svg" alt="elliot: reviving classic Call of Duty, emulation, reverse engineering" width="100%">
-
 <div align="center">
+
+# elliot
+
+Bringing classic Call of Duty back online: private servers, modding tools and emulation for Xbox 360, PS3 and PS5.
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
